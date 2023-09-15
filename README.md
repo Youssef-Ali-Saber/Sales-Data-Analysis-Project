@@ -1,4 +1,3 @@
-![image](https://github.com/Youssef-Ali-Saber/Sales-Data-Analysis-Project-Using-Excel-Only/assets/93370104/e27f69cf-4360-46b2-8d96-fccdf71c1c32)
 ### Purpose: 
 #### Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
