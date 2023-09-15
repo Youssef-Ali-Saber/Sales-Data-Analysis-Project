@@ -1,4 +1,4 @@
-
+![image](https://github.com/Youssef-Ali-Saber/Sales-Data-Analysis-Project-Using-Excel-Only/assets/93370104/e27f69cf-4360-46b2-8d96-fccdf71c1c32)
 ### Purpose: 
 #### Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 
@@ -14,6 +14,16 @@
 
 #### 4. The time with highest number of orders is 11:58:00 AM , followedby 7:20:00 PM .
 
-#### 5. The most orders were received during the time period from 10 AM to 8 PM.                            
+#### 5. The most orders were received during the time period from 10 AM to 8 PM.   
 
+#### 6.The MacBook Pro laptop was the top-selling product,accounting for 23% of total revenue, followed by iPhone with 13% of total revenue.
+
+#### 7. The AAA Batteries(4-pack) is the most demanded product,but it has the lowest sales, with only 0.3% of total revenue.                              
+
+#### 8. San Francisco was the star performer, with sales of 24% of totalrevenue 
+
+#### 9. Austin had the lowest sales, with only 5% of total revenue
+
+
+### Excel Dashboard
 ![image](Dashboard.png)
