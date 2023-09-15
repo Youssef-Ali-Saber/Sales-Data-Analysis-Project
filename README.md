@@ -7,7 +7,7 @@
 ### Data Insights:
 #### 1. Total Sales is 34.49$M .  
 
-#### 2. Number of Customer is 140.79K order
+#### 2. Number of Customer is 140.79K
 
 #### 3. December was the month with the highest sales (4.6$M ),followed by October ( 3.7$M).
 
