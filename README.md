@@ -1,4 +1,4 @@
-![image](https://github.com/Youssef-Ali-Saber/Sales-Data-Analysis-Project-Using-Excel-Only/assets/93370104/b2f237d7-ed03-45ec-8d70-6cc85e8292d1)# Sales-Data-Analysis-Project-Using-Excel
+![image](https://github.com/Youssef-Ali-Saber/Sales-Data-Analysis-Project-Using-Excel-Only/assets/93370104/b2f237d7-ed03-45ec-8d70-6cc85e8292d1)
 
 ### Purpose: 
 #### Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
@@ -7,4 +7,4 @@
 #### In this project, I will dive into a large sales dataset to extract valuable insights. I will explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to present your findings effectively. This project showcases My ability to manipulate and derive insights from large datasets, to make data-driven recommendations for optimizing sales strategies.
 
 ### Data Insights:
-![image](https://github.com/Youssef-Ali-Saber/Sales-Data-Analysis-Project-Using-Excel-Only/Dashboard.png)
+![image](https://github.com/Youssef-Ali-Saber/Sales-Data-Analysis-Project-Using-Excel-Only/Dashboard.png)# Sales-Data-Analysis-Project-Using-Excel
